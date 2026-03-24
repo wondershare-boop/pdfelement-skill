@@ -86,7 +86,7 @@ Start-Process "wspet://param=aG9tZSAtZW50cmFuY2UgT3BlbkNsYXc="
 
 ```bash
 # 将此技能添加到您的 AI Agent 工作空间
-npx skills add https://github.com/wondershare-boop/pe-skills
+npx skills add https://github.com/wondershare-boop/pdfelement-skill
 ```
 
 ---
