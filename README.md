@@ -86,7 +86,7 @@ If you see "No application is associated with the specified file" error, it mean
 
 ```bash
 # Add this skill to your AI Agent workspace
-npx skills add https://github.com/wondershare-boop/pe-skills
+npx skills add https://github.com/wondershare-boop/pdfelement-skill
 ```
 
 ---
